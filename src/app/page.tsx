@@ -35,7 +35,7 @@ export default function Home() {
       <div className="contentWrapper">
         <h1 className="work-sans-unique-bold">
           Hej! Fönsterputsteamet har gått och blivit Städax. Kom ett steg
-          närmare skinande rena fönster putsade med gott samvete.
+          närmare skinande rena fönster, putsade med gott samvete.
         </h1>
         <Link
           className="link"
